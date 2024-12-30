@@ -1,0 +1,10 @@
+Em package.json, trocamos 
+test por start
+
+trocamos o que estava padrão por:
+json-server --watch db.json --port 3000
+
+Dessa forma é só usar
+npm start (Dentro da pasta de onde está o package.json)
+ao invés de digitar tudo.
+
