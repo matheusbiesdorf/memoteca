@@ -31,11 +31,6 @@
       "autoria": "Mãe"
     },
     {
-      "id": "6a2b",
-      "conteudo": "Foi sem querer querendo!",
-      "autoria": "Chaves"
-    },
-    {
       "id": "7e2a",
       "conteudo": "Que a força esteja com você!",
       "autoria": "Mestre Yoda"
@@ -57,18 +52,8 @@
     },
     {
       "id": "8b4c",
-      "conteudo": "A vingança nunca é plena... mata a alma e a envenena...",
+      "conteudo": "A vingança nunca é plena... mata a alma e a envenena.",
       "autoria": "Seu Madruga"
-    },
-    {
-      "id": "4d2e",
-      "conteudo": "Se eu for aí e achar, eu esfrego na sua cara!",
-      "autoria": "Mãe"
-    },
-    {
-      "id": "f890",
-      "conteudo": "Olá, mundo!",
-      "autoria": "Programador no primeiro dia"
     }
   ]
 }

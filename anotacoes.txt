@@ -19,3 +19,4 @@ READ -> GET
 UPDATE -> PUT
 DELETE -> DELETE
 
+Usamos Axios no final para as requsições
