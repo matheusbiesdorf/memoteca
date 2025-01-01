@@ -8,3 +8,14 @@ Dessa forma é só usar
 npm start (Dentro da pasta de onde está o package.json)
 ao invés de digitar tudo.
 
+
+
+
+
+
+
+CREATE -> POST
+READ -> GET
+UPDATE -> PUT
+DELETE -> DELETE
+
